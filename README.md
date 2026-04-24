@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Amanprit 👋
 
-<!--
-**Amanprit13/Amanprit13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer  
+🎓 BCA Student  
+🚀 Interested in Web Development & Backend Systems  
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming Languages:**
+- C, C++, Python, JavaScript  
+- Java (Basic)
+
+**Data Structures & Algorithms:**
+- Arrays, Linked Lists, Stacks, Queues  
+- Searching & Sorting  
+- Problem Solving (LeetCode / Practice)
+
+**Web Development:**
+- HTML, CSS, Tailwind CSS  
+- React.js, Next.js  
+- PHP (Basic)
+
+**Backend Development:**
+- Flask (Python)  
+- REST API Development  
+
+**Database:**
+- SQL, DBMS, RDBMS  
+
+**Core Concepts:**
+- Object-Oriented Programming (OOP / OOSE)  
+- Operating Systems (Basics)  
+- Computer Networks (Basics)
+
+**Tools:**
+- Git & GitHub  
+- VS Code  
+
+## 📌 Projects
+- 📁 File Dropper – Secure File Sharing System  
+- 🎓 Alumni Management System  
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms  
+- System Design  
+
+## 📫 Contact
+Email: amanpritkaur13@gmail.com
